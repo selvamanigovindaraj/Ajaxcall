@@ -1,0 +1,32 @@
+{"student":[
+	{
+		"name":"selvamani",
+		"age":24,
+		"address":[
+			"city":"chrompet",
+			"state":"Tamil Nadu",
+			"country":"India",
+		],
+		"Education":[
+			"ug":[
+				"degree":"B.Tech",
+				"college":"MIT",
+				"address":[
+					"city":"chrompet",
+					"state":"Tamil Nadu",
+					"country":"India",
+				],
+			],
+			"pg":[
+				"degree":"M.Tech",
+				"college":"UL",
+				"address":[
+					"city":"co.limerick",
+					"state":"Limerick",
+					"country":"Ireland",
+				],
+			],
+		],
+	}
+]
+}

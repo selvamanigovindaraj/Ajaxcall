@@ -1,0 +1,17 @@
+$(document).ready(function(){
+	$("button").click(function(){
+		$.ajax({
+			type:"GET",
+			url:"new.json",
+			dataType:"json",
+			success:function(result){
+				console.log(result);
+				$("#name").html(result.name);
+				$("#age").html(result.age);
+				$("#city").html(result.city);
+				$("#state").html(result.state);
+				$("#country").html(result.country);
+			}
+		});
+	});
+});
