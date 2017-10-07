@@ -5,7 +5,7 @@
 		"address":[
 			"city":"chrompet",
 			"state":"Tamil Nadu",
-			"country":"India",
+			"country":"India"
 		],
 		"Education":[
 			"ug":[
@@ -14,8 +14,8 @@
 				"address":[
 					"city":"chrompet",
 					"state":"Tamil Nadu",
-					"country":"India",
-				],
+					"country":"India"
+				]
 			],
 			"pg":[
 				"degree":"M.Tech",
@@ -23,10 +23,10 @@
 				"address":[
 					"city":"co.limerick",
 					"state":"Limerick",
-					"country":"Ireland",
-				],
-			],
-		],
+					"country":"Ireland"
+				]
+			]
+		]
 	}
 ]
 }
