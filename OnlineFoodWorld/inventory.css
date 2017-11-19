@@ -15,6 +15,11 @@
     margin-bottom: 1rem;
     margin-top: 1rem;
 }
+@media (min-width: 576px){
+    .jumbotron {
+        padding: 2rem 1rem; 
+    }
+}
 
 .footerImg{
     width:150px;
